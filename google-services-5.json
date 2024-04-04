@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232307320048",
+    "project_id": "cyberbullingapp1",
+    "storage_bucket": "cyberbullingapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232307320048:android:41455799520411824e8e35",
+        "android_client_info": {
+          "package_name": "com.companyname.cyberbullingapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgzrV1sD_hK2k5bnA5IwqvoRwlcMhH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
